@@ -12,11 +12,12 @@ For PyCharm users:
 - Now search for the directory on your computer, where the code is located.
 - Click on the code file.
 - Press Apply and OK.
+- If you do not have Selenium installed, install it.
 - If you want to run the code, press the green triangle button on the top right corner of the editor.
 
 For Visual Studio Code users:
 - Open the code.
-- Install the Python package.
+- Install Python and Selenium packages.
 - To run the code press the white triangle on the top right corner of the editor.
 
 With one click of a button it does all of the tests given. Sometimes the code crashes, because of the assert conditions.
