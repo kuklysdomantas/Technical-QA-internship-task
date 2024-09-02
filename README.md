@@ -1,6 +1,6 @@
 # Technical-QA-internship-task
 
-This is a "README" file for Technical QA internship task. Personally I used PyCharm (version 2024.2).
+This is a "README" file for Technical QA internship task for twoday. Personally I used PyCharm (version 2024.2).
 The code was written in Python (version 3.8.8).
 
 For PyCharm users:
