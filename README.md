@@ -22,4 +22,4 @@ For Visual Studio Code users:
 With one click of a button it does all of the tests given. Sometimes the code crashes, because of the assert conditions.
 To know further details watch in the terminal.
 
-The code is tested and it does all of the tasks. If you want to see it, just run it a bunch of times and it should work.
+The code is tested and it does all of the tasks. If you want to see it, just run it a bunch of times and it should work. When the first test is done, the window closes. After a bit of time the second test is being proceeded.
